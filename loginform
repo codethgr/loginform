@@ -1,0 +1,21 @@
+
+
+
+<head>
+  <style> 
+   * {
+       margin: 0;
+       padding: 0;
+       box-sizing: border-box;
+     }
+body{
+
+
+
+<body>
+  <div class="container">
+    <input type="email">
+     placeholder="email">
+    <input type="password"
+    placeholder="password"
+<button>Login</button>
